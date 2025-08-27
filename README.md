@@ -41,21 +41,6 @@ It demonstrates real-world Hibernate relationships like `@OneToMany`, `@ManyToOn
 | Git           | Version control                 |
 | IDE           | IntelliJ / Eclipse / VS Code    |
 
----
 
-##  How to Run
-
-###  Prerequisites
-
-- Java 17+ installed
-- MySQL server running
-- Database: `schoolmanagement` created
-- Dependencies added (Hibernate, JPA, MySQL connector)
-
-###  Steps
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/Hibernate-School-Management-Project.git
 
 Developer: Pallavi Kasaudhan
